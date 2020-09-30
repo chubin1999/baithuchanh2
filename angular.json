@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "baithuchanh2"
+    }
+  },
+  "defaultProject": "baithuchanh2",
+  "cli": {
+    "analytics": "ffd07b70-2958-4e84-ab11-5a4ae1338ec4"
+  }
 }
